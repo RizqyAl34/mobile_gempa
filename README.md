@@ -1,6 +1,5 @@
 # 🌋 AWAS GEMPA — Aplikasi Informasi & Kesiapsiagaan Gempa Bumi Berbasis Android
 
-> Tugas Akhir Mata Kuliah Pemrograman Mobile 2 — Pengembangan Lanjutan & Redesign UI/UX
 
 ---
 
@@ -12,7 +11,7 @@
 ### - Mata Kuliah: Pemrograman Mobile 2
 ### - Dosen Pengampu: Donny Maulana, S.Kom., M.M.S.I.,
 
-### LInk Clickup:  [https://app.clickup.com/90181799294/v/s/90187327418](https://app.clickup.com/90181810061/v/b/li/901816401804)
+### Link Clickup:  [https://app.clickup.com/90181799294/v/s/90187327418](https://app.clickup.com/90181810061/v/b/li/901816401804)
 
 ---
 
