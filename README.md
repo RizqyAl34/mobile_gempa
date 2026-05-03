@@ -184,9 +184,9 @@ Aplikasi AWAS GEMPA menggunakan sistem peringatan berlapis yang ditampilkan di b
 | Splash Screen | <img src="gempa/Splash.png" width="220"/> |
 | Home | <img src="gempa/Home.png" width="220"/> |
 | Maps | <img src="gempa/Maps.png" width="220"/> |
-| Notif | <img src="Gempa/Notif.png" width="220"/> |
-| Chatbot | <img src="Gempa/Chatbot.png" width="220"/> |
-| Guide | <img src="Gempa/Guide.png" width="220"/> |
+| Notif | <img src="gempa/Notif.png" width="220"/> |
+| Chatbot | <img src="gempa/Chatbot.png" width="220"/> |
+| Guide | <img src="gempa/Guide.png" width="220"/> |
 
 
 
