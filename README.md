@@ -6,14 +6,13 @@
 
 ## 👤 Identitas Mahasiswa
 
-| Field | Keterangan |
-|-------|-----------|
-| **Nama** | M. Rizqy Al Rasyd |
-| **NIM** | 312410424 |
-| **Kelas** | I241C |
-| **Mata Kuliah** | Pemrograman Mobile 2 |
-| **Dosen Pengampu** | Donny Maulana, S.Kom., M.M.S.I. |
-| **Project Management** | [ClickUp Board]([https://app.clickup.com/90181799294/v/s/90187327418](https://app.clickup.com/90181810061/v/b/li/901816401804)) |
+### - Nama: M. Rizqy Al Rasyd
+### - Kelas: I241C
+### - Nim: 312410424
+### - Mata Kuliah: Pemrograman Mobile 2
+### - Dosen Pengampu: Donny Maulana, S.Kom., M.M.S.I.,
+
+### LInk Clickup:  [https://app.clickup.com/90181799294/v/s/90187327418](https://app.clickup.com/90181810061/v/b/li/901816401804)
 
 ---
 
